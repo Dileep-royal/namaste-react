@@ -1,6 +1,8 @@
 # Namste🙏 React 🚀
 Mentor - **[Akshay Saini](https://github.com/akshaymarch7)**
 
+# 🔗 Some useful links:
+- [Introduction to React](/React.md)
 # 📗 Chapter-01 Inception
 - **[Assignment]()**
 - **[Assignment Solution]()**
