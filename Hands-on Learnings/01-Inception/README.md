@@ -12,7 +12,7 @@ React is not easy without JSX, this eliminate the use of `createElement()` metho
 
 # Homework:
 
-1. What are CDN links?
+## 1. What are CDN links?
 
 **`Answer`:** 
 
@@ -41,19 +41,19 @@ React is not easy without JSX, this eliminate the use of `createElement()` metho
 - Social media marketing
 - E-commerce
 
-2. Can we use react.produnction.min.js CDN links, instead of react.development.js?
+## 2. Can we use react.produnction.min.js CDN links, instead of react.development.js?
 
 **`Answer`:** 
 
 Yes, you can use the production build of React (**`react.production.min.js`**) instead of the development build (**`react.development.js`**) when deploying your React application. In fact, it's recommended to use the production build for production deployments because it's optimized for performance and has smaller file size due to minification and removal of development-specific code.
 
-3. What will render() will do if root HTML Element already contains an HTML Elements
+## 3. What will render() will do if root HTML Element already contains an HTML Elements
 
 **`Answer`:** 
 
 **Removes everything and injects new or provided HTML Elements.**
 
-4. What is difference between library and framework?
+## 4. What is difference between library and framework?
 
 **`Answer`:** 
 
@@ -65,11 +65,11 @@ Yes, you can use the production build of React (**`react.production.min.js`**) i
 
 By using Framework we have to create everything with the help of the particular framework only.
 
-5. Order of CDN links and files really matter?
+## 5. Order of CDN links and files really matter?
 
 **`Answer`:**  Yes, definitely. If we run JavaScript code before the CDN links, we may face error, because `React` and `ReactDOM` isn’t available to execute the JavaScript code. So, we have to invoke CDN links before the actual JavaScript code.
 
-6. What are library and frameworks all about?
+## 6. What are library and frameworks all about?
 
 `My Thoughts`:
 
@@ -79,7 +79,7 @@ By using Framework we have to create everything with the help of the particular 
 - To ease the maintaining and organizing the codebase.
 - Additional features (built things on top of what already exists)
 
-7. What is `crossorigin` attribute that is used in case of importing CDN links?
+## 7. What is `crossorigin` attribute that is used in case of importing CDN links?
 
 **`Answer`:** 
 
@@ -87,7 +87,7 @@ The **`crossorigin`** attribute, valid on the `[<audio>](https://developer.mo
 
 The `crossorigin` content attribute on media elements is a CORS settings attribute.
 
-8. What is `react-DOM`
+## 8. What is `react-DOM`
 
 **`Answer`:** 
 
