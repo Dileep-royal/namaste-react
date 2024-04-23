@@ -11,7 +11,7 @@ Mentor - **[Akshay Saini](https://github.com/akshaymarch7)**
 # 📗 Chapter-02 Igniting our App
 - **[Assignment]()**
 - **[Assignment Solution]()**
-- **[Notes]()**
+- **[Notes](<Hands-on Learnings/02-Igniting-our-app/README.md>)**
 
 # 📗 Chapter-03 Laying the Foundation
 - **[Assignment]()**
