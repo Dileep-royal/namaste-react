@@ -6,7 +6,7 @@ Mentor - **[Akshay Saini](https://github.com/akshaymarch7)**
 # 📗 Chapter-01 Inception
 - **[Assignment]()**
 - **[Assignment Solution]()**
-- **[Notes](/Hands-on%Learnings/01-Inception/README.md)**
+- **[Notes](</Hands-on Learnings/01-Inception/README.md>)**
 
 # 📗 Chapter-02 Igniting our App
 - **[Assignment]()**
