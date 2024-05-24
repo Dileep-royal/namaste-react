@@ -1,0 +1,34 @@
+{
+  "name": "04-talk-is-cheap-show-me-your-code",
+  "version": "1.0.0",
+  "description": "Laying the Foundation",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Dileep",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com/Dileep-royal/namaste-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dileep-royal/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Dileep-royal/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "browserslist": "^4.23.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    "last 10 versions"
+  ]
+}
