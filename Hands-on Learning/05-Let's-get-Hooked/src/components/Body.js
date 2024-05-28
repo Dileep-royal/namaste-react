@@ -28,14 +28,6 @@ const Body = ()=>{
        </div>
 
        <div className="resto-container">
-           {/* Passing props Individually as key-value pairs*/}
-             {/* <RestoCard name="Ramappa Restaurant" cost={400}  ratings={4.5} deliveryTime={30} />
-             <RestoCard name="Ramappa Restaurant" cost={500}  ratings={4.5} deliveryTime={30} /> */}
-
-             {/* Passing props as an object */}
-             {/* <RestoCard data={resObj} /> */}
-              
-              {/* Popoulating a list of card by giving data to props as an object */}
             {
              listOfRestaurants.map((obj)=> <RestoCard key={obj.info.id} data={obj} /> )
             }
